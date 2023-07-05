@@ -4,3 +4,6 @@
 [submodule "eloquent-relationships-by-example-one-to-many"]
 	path = eloquent-relationships-by-example-one-to-many
 	url = https://github.com/codecourse/eloquent-relationships-by-example-one-to-many
+[submodule "eloquent-relationships-by-example-belongs-to"]
+	path = eloquent-relationships-by-example-belongs-to
+	url = https://github.com/codecourse/eloquent-relationships-by-example-belongs-to

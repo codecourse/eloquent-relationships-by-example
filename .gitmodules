@@ -13,3 +13,6 @@
 [submodule "eloquent-relationships-by-example-has-many-through"]
 	path = eloquent-relationships-by-example-has-many-through
 	url = https://github.com/codecourse/eloquent-relationships-by-example-has-many-through
+[submodule "eloquent-relationships-by-example-has-one-through"]
+	path = eloquent-relationships-by-example-has-one-through
+	url = https://github.com/codecourse/eloquent-relationships-by-example-has-one-through

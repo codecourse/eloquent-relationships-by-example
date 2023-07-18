@@ -19,3 +19,6 @@
 [submodule "eloquent-relationships-by-example-has-one-of-many"]
 	path = eloquent-relationships-by-example-has-one-of-many
 	url = https://github.com/codecourse/eloquent-relationships-by-example-has-one-of-many
+[submodule "eloquent-relationships-by-example-eager-loading"]
+	path = eloquent-relationships-by-example-eager-loading
+	url = https://github.com/codecourse/eloquent-relationships-by-example-eager-loading

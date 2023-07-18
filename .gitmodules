@@ -16,3 +16,6 @@
 [submodule "eloquent-relationships-by-example-has-one-through"]
 	path = eloquent-relationships-by-example-has-one-through
 	url = https://github.com/codecourse/eloquent-relationships-by-example-has-one-through
+[submodule "eloquent-relationships-by-example-has-one-of-many"]
+	path = eloquent-relationships-by-example-has-one-of-many
+	url = https://github.com/codecourse/eloquent-relationships-by-example-has-one-of-many
